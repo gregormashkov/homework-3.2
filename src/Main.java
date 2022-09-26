@@ -24,6 +24,7 @@ public class Main {
         totalWorkingHours = totalEmployees * hoursPerDay;
 
         System.out.println("“Если в компании работает " + totalEmployees + " человек, то всего "+ totalWorkingHours + "часов работы может быть поделено между сотрудниками”");
+        // ДЗ завершено
 
 
 
